@@ -22,6 +22,14 @@ export default {
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
+          light: "hsl(var(--primary-light))",
+          dark: "hsl(var(--primary-dark))",
+        },
+        conference: {
+          hero: "hsl(var(--conference-hero))",
+          accent: "hsl(var(--conference-accent))",
+          light: "hsl(var(--conference-light))",
+          text: "hsl(var(--conference-text))",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
