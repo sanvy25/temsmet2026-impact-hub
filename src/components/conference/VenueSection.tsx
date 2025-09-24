@@ -9,14 +9,14 @@ export const VenueSection = () => {
     {
       icon: Plane,
       title: "By Air",
-      description: "Indira Gandhi International Airport (DEL) - 45 minutes to NIT Delhi",
-      details: "Direct flights from major cities worldwide. Airport express metro available."
+      description: "Rajiv Gandhi International Airport (HYD) - 30 minutes to SIT Hyderabad",
+      details: "Direct flights from major cities worldwide. Airport shuttle services available."
     },
     {
       icon: Train,
       title: "By Train",
-      description: "New Delhi Railway Station - 30 minutes to campus",
-      details: "Well connected to all major Indian cities. Metro connectivity available."
+      description: "Hyderabad Deccan Railway Station - 25 minutes to campus",
+      details: "Well connected to all major Indian cities. Metro and cab services available."
     },
     {
       icon: Car,
@@ -28,21 +28,21 @@ export const VenueSection = () => {
 
   const accommodations = [
     {
-      name: "Hotel Radisson Blu",
-      distance: "2.5 km from venue",
+      name: "ITC Kohenur Hyderabad",
+      distance: "3.5 km from venue",
+      price: "₹12,000/night",
+      rating: "5★"
+    },
+    {
+      name: "Radisson Blu Plaza Hyderabad",
+      distance: "8 km from venue",
       price: "₹8,000/night",
       rating: "4.5★"
     },
     {
-      name: "The Oberoi New Delhi",
-      distance: "15 km from venue",
-      price: "₹15,000/night",
-      rating: "5★"
-    },
-    {
-      name: "Hotel Decent",
-      distance: "1.2 km from venue",
-      price: "₹3,500/night",
+      name: "Hotel Sitara Grand",
+      distance: "2.2 km from venue",
+      price: "₹4,500/night",
       rating: "3.5★"
     }
   ];
@@ -55,7 +55,7 @@ export const VenueSection = () => {
             Venue & Travel
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Join us at the prestigious National Institute of Technology Delhi, 
+            Join us at the prestigious Symbiosis Institute of Technology Hyderabad, 
             a premier technical institution known for its world-class facilities and research excellence.
           </p>
         </div>
@@ -66,7 +66,7 @@ export const VenueSection = () => {
             <Card className="border-0 shadow-card overflow-hidden h-full">
               <img 
                 src={nitDelhi} 
-                alt="National Institute of Technology Delhi campus building exterior"
+                alt="Symbiosis Institute of Technology Hyderabad campus building exterior"
                 className="w-full h-64 object-cover"
               />
               <CardHeader>
@@ -78,10 +78,10 @@ export const VenueSection = () => {
               <CardContent>
                 <div className="space-y-4">
                   <div>
-                    <h4 className="font-semibold text-conference-text mb-2">National Institute of Technology Delhi</h4>
+                    <h4 className="font-semibold text-conference-text mb-2">Symbiosis Institute of Technology Hyderabad</h4>
                     <p className="text-muted-foreground">
-                      Plot No. FA7, Zone P1, GT Karnal Road<br/>
-                      New Delhi - 110036, India
+                      Rangareddy District<br/>
+                      Hyderabad, Telangana - 501510, India
                     </p>
                   </div>
                   <div>
@@ -135,7 +135,7 @@ export const VenueSection = () => {
                 <div className="grid grid-cols-2 gap-4 text-sm">
                   <div>
                     <h4 className="font-semibold text-conference-text mb-2">Weather (October)</h4>
-                    <p className="text-muted-foreground">Pleasant, 15-28°C<br/>Light winter clothing recommended</p>
+                    <p className="text-muted-foreground">Pleasant, 20-30°C<br/>Light cotton clothing recommended</p>
                   </div>
                   <div>
                     <h4 className="font-semibold text-conference-text mb-2">Currency</h4>

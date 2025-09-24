@@ -10,25 +10,25 @@ export const ContactSection = () => {
       role: "General Chair",
       name: "Prof. Dr. Anil Kumar Sharma",
       title: "Director",
-      organization: "National Institute of Technology Delhi",
-      email: "director@nitdelhi.ac.in",
-      phone: "+91-11-3348-2000"
+      organization: "Symbiosis Institute of Technology Hyderabad",
+      email: "director@sithyd.ac.in",
+      phone: "+91-40-6671-0001"
     },
     {
       role: "Program Chair",
       name: "Prof. Dr. Sunita Garhwal",
       title: "Professor, Computer Science",
-      organization: "NIT Delhi",
-      email: "sunita@nitdelhi.ac.in",
-      phone: "+91-11-3348-2150"
+      organization: "SIT Hyderabad",
+      email: "sunita@sithyd.ac.in",
+      phone: "+91-40-6671-0150"
     },
     {
       role: "Technical Chair",
       name: "Dr. Rajesh Verma",
       title: "Associate Professor",
       organization: "Department of Management Studies",
-      email: "rajesh.verma@nitdelhi.ac.in",
-      phone: "+91-11-3348-2180"
+      email: "rajesh.verma@sithyd.ac.in",
+      phone: "+91-40-6671-0180"
     }
   ];
 
@@ -65,14 +65,14 @@ export const ContactSection = () => {
     {
       icon: Phone,
       title: "Phone",
-      primary: "+91-11-3348-2000",
-      secondary: "+91-11-3348-2150"
+      primary: "+91-40-6671-0001",
+      secondary: "+91-40-6671-0150"
     },
     {
       icon: MapPin,
       title: "Address",
-      primary: "NIT Delhi, Plot No. FA7, Zone P1",
-      secondary: "GT Karnal Road, New Delhi - 110036"
+      primary: "SIT Hyderabad, Rangareddy District",
+      secondary: "Hyderabad, Telangana - 501510"
     }
   ];
 

@@ -23,7 +23,7 @@ export const Footer = () => {
   const socialLinks = [
     { name: "IEEE Xplore", url: "#" },
     { name: "Conference Website", url: "#" },
-    { name: "NIT Delhi", url: "#" },
+    { name: "SIT Hyderabad", url: "#" },
     { name: "Contact Us", url: "#contact" }
   ];
 
@@ -56,7 +56,7 @@ export const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-5 w-5 text-blue-300" />
-                <span className="text-blue-100">National Institute of Technology Delhi</span>
+                <span className="text-blue-100">Symbiosis Institute of Technology Hyderabad</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-blue-300" />
@@ -112,7 +112,7 @@ export const Footer = () => {
               © 2026 TEMSMET - 5th IEEE International Conference. All rights reserved.
             </p>
             <p className="text-blue-200 text-xs">
-              IEEE Conference #65536 | Organized by National Institute of Technology Delhi
+              IEEE Conference #65536 | Organized by Symbiosis Institute of Technology Hyderabad
             </p>
           </div>
 
