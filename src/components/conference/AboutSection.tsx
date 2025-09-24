@@ -34,7 +34,7 @@ export const AboutSection = () => {
             About TEMSMET 2026
           </h2>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            The 4th IEEE International Conference on Technology, Engineering, Management for Societal Impact 
+            The 5th IEEE International Conference on Technology, Engineering, Management for Societal Impact 
             using Marketing, Entrepreneurship, and Talent brings together leading researchers, industry experts, 
             and academic professionals to explore innovative solutions for global challenges.
           </p>

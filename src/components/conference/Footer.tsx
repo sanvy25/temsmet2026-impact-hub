@@ -46,7 +46,7 @@ export const Footer = () => {
               </div>
             </div>
             <p className="text-blue-100 mb-6 leading-relaxed">
-              4th IEEE International Conference on Technology, Engineering, Management 
+              5th IEEE International Conference on Technology, Engineering, Management 
               for Societal Impact using Marketing, Entrepreneurship, and Talent
             </p>
             <div className="space-y-3">
@@ -109,7 +109,7 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <p className="text-blue-100 text-sm mb-2">
-              © 2026 TEMSMET - 4th IEEE International Conference. All rights reserved.
+              © 2026 TEMSMET - 5th IEEE International Conference. All rights reserved.
             </p>
             <p className="text-blue-200 text-xs">
               IEEE Conference #65536 | Organized by National Institute of Technology Delhi

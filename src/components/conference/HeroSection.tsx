@@ -31,7 +31,7 @@ export const HeroSection = () => {
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
           <span className="block text-white">TEMSMET 2026</span>
           <span className="block text-2xl md:text-3xl lg:text-4xl font-medium text-blue-100 mt-4">
-            4th IEEE International Conference
+            5th IEEE International Conference
           </span>
         </h1>
 
