@@ -87,8 +87,8 @@ export const VenueSection = () => {
                   <div>
                     <h4 className="font-semibold text-conference-text mb-2">Conference Hall</h4>
                     <p className="text-muted-foreground">
-                      Dr. A.P.J. Abdul Kalam Auditorium<br/>
-                      Capacity: 500 participants<br/>
+                      Symbiosis International University-Hyderabad Auditorium <br/>
+                      Capacity: 1100 participants<br/>
                       Fully air-conditioned with modern AV facilities
                     </p>
                   </div>
