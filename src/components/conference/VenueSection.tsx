@@ -2,7 +2,7 @@ import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { MapPin, Plane, Train, Car, Hotel, Utensils } from 'lucide-react';
-import nitDelhi from '@/assets/nit-delhi.jpg';
+import symbiosisHyderabad from '@/assets/symbiosis-hyderabad.png';
 
 export const VenueSection = () => {
   const travelOptions = [
@@ -65,7 +65,7 @@ export const VenueSection = () => {
           <div>
             <Card className="border-0 shadow-card overflow-hidden h-full">
               <img 
-                src={nitDelhi} 
+                src={symbiosisHyderabad} 
                 alt="Symbiosis Institute of Technology Hyderabad campus building exterior"
                 className="w-full h-64 object-cover"
               />
