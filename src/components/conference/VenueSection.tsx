@@ -92,7 +92,7 @@ export const VenueSection = () => {
                       Fully air-conditioned with modern AV facilities
                     </p>
                   </div>
-                  <Button variant="outline" className="w-full mt-4">
+                  <Button variant="outline" className="w-full mt-4" onClick={() => window.open("https://maps.app.goo.gl/8V8mweDvPiqphmoG8", "_blank")}>
                     View on Google Maps
                   </Button>
                 </div>
