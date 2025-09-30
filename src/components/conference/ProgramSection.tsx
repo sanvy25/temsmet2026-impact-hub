@@ -6,7 +6,7 @@ import { Clock, Calendar, MapPin, Users } from 'lucide-react';
 export const ProgramSection = () => {
   const programDays = [
     {
-      date: "October 8, 2026",
+      date: "October 21, 2026",
       day: "Day 1",
       theme: "Technology Innovation",
       sessions: [
@@ -21,7 +21,7 @@ export const ProgramSection = () => {
       ]
     },
     {
-      date: "October 9, 2026",
+      date: "October 22, 2026",
       day: "Day 2",
       theme: "Engineering & Management",
       sessions: [
@@ -36,7 +36,7 @@ export const ProgramSection = () => {
       ]
     },
     {
-      date: "October 10, 2026",
+      date: "October 23, 2026",
       day: "Day 3",
       theme: "Entrepreneurship & Talent",
       sessions: [
