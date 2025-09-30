@@ -19,7 +19,7 @@ export const CallForPapers = () => {
     { date: "July 26, 2026", event: "Paper Submission Deadline", status: "upcoming" },
     { date: "August 16, 2026", event: "Notification of Acceptance", status: "upcoming" },
     { date: "September 20, 2026", event: "Camera-Ready Submission", status: "upcoming" },
-    { date: "August 1, 2026", event: "Early Registration Deadline", status: "upcoming" }
+    { date: "October 4, 2026", event: "Early Registration Deadline", status: "upcoming" }
   ];
 
   return (
