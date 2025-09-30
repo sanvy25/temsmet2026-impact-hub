@@ -59,8 +59,8 @@ export const ContactSection = () => {
     {
       icon: Mail,
       title: "Email",
-      primary: "info@temsmet2026.org",
-      secondary: "submissions@temsmet2026.org"
+      primary: "temsmet2026@sithyd.siu.edu.in",
+      secondary: "temsmet2026@sithyd.siu.edu.in"
     },
     {
       icon: Phone,

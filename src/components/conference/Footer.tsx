@@ -60,8 +60,8 @@ export const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-blue-300" />
-                <a href="mailto:info@temsmet2026.org" className="text-blue-100 hover:text-white">
-                  info@temsmet2026.org
+                <a href="mailto:temsmet2026@sithyd.siu.edu.in" className="text-blue-100 hover:text-white">
+                  temsmet2026@sithyd.siu.edu.in
                 </a>
               </div>
               <div className="flex items-center gap-3">
