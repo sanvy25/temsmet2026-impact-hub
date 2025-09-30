@@ -16,7 +16,7 @@ export const CallForPapers = () => {
   ];
 
   const timeline = [
-    { date: "March 15, 2026", event: "Paper Submission Deadline", status: "upcoming" },
+    { date: "July 26, 2026", event: "Paper Submission Deadline", status: "upcoming" },
     { date: "May 30, 2026", event: "Notification of Acceptance", status: "upcoming" },
     { date: "July 15, 2026", event: "Camera-Ready Submission", status: "upcoming" },
     { date: "August 1, 2026", event: "Early Registration Deadline", status: "upcoming" }
