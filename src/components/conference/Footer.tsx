@@ -14,10 +14,10 @@ export const Footer = () => {
   ];
 
   const importantDates = [
-    { event: "Paper Submission", date: "March 15, 2026" },
-    { event: "Notification", date: "May 30, 2026" },
-    { event: "Camera Ready", date: "July 15, 2026" },
-    { event: "Conference", date: "Oct 8-10, 2026" }
+    { event: "Paper Submission", date: "July 26, 2026" },
+    { event: "Notification", date: "August 16, 2026" },
+    { event: "Camera Ready", date: "September 20, 2026" },
+    { event: "Conference", date: "Oct 21-23, 2026" }
   ];
 
   const socialLinks = [
@@ -52,7 +52,7 @@ export const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Calendar className="h-5 w-5 text-blue-300" />
-                <span className="text-blue-100">October 08–10, 2026</span>
+                <span className="text-blue-100">October 21–23, 2026</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-5 w-5 text-blue-300" />

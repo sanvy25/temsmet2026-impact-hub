@@ -45,7 +45,7 @@ export const HeroSection = () => {
         <div className="flex flex-col md:flex-row items-center justify-center gap-8 mb-12 text-lg">
           <div className="flex items-center gap-3">
             <Calendar className="h-6 w-6 text-blue-200" />
-            <span className="text-blue-100">October 08–10, 2026</span>
+            <span className="text-blue-100">October 21–23, 2026</span>
           </div>
           <div className="flex items-center gap-3">
             <MapPin className="h-6 w-6 text-blue-200" />
